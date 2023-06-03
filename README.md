@@ -3,7 +3,7 @@
  { “💪🏻Name” : “Abraham Israel Ayquipa Ubaldo”;
    “🖥️Role” : “Frontend Developer”;
    “🧠Learning” : “React.js”;
-   “👊🏻Hobby” : “Design web pages”;
+   “👊🏻Hobby” : “Design and develop web pages”;
  }
 ```
 
