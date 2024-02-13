@@ -1,5 +1,5 @@
 # About me
-```json
+```shell
  {
     “💪🏻 Name” : “Abraham Israel Ayquipa Ubaldo”,
     “🖥️ Role” : “Frontend Developer”,
